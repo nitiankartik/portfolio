@@ -389,9 +389,9 @@ nav .fa-solid{
     .contact-left, .contact-right{
         flex-basis: 100%;
     }
-    .copyright{
+    /* .copyright{
         font-size: 40px;
-    }
+    } */
 }
 #msg{
     color: #61b752;
