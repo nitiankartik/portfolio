@@ -1,2 +1,2 @@
-# portfolio
-portfolio
+# Portfolio
+Welcome to my Profile.
